@@ -1,0 +1,29 @@
+/* assets/style.css */
+
+/* General styling for the entire app */
+body {
+    font-family: 'Arial', sans-serif; /* Use a more readable font */
+    background-color: #f4f4f4; /* Light gray background for the entire app */
+    color: #333; /* Dark gray text color */
+}
+
+/* Styling for the graph */
+.my-graph {
+    border: 2px solid #e0e0e0; /* Slightly thicker border */
+    border-radius: 8px; /* Increased border radius for a more modern look */
+    padding: 20px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); /* Slightly larger shadow for depth */
+    background-color: #ffffff; /* White background for the graph area */
+    transition: box-shadow 0.3s ease; /* Smooth transition for hover effect */
+}
+
+/* Hover effect for the graph */
+.my-graph:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15); /* Deeper shadow on hover */
+}
+
+/* If you have any buttons or links, you can add hover effects for them too */
+button:hover, a:hover {
+    cursor: pointer; /* Change cursor to pointer on hover */
+    opacity: 0.8; /* Slight fade on hover */
+}

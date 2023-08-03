@@ -25,7 +25,7 @@ Ensure you have Python and Pip installed.
 ### Installation
 
 1. **Clone the Repository**:
-https://github.com/muntazirabidi/finance/financial_dashboard.git
+'git clone https://github.com/muntazirabidi/finance/financial_dashboard.git'
 
 
 2. **Install Dependencies**:

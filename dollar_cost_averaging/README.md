@@ -22,14 +22,14 @@ This dashboard provides a visual comparison of various dollar-cost averaging (DC
 
 ## File Structure
 
-app.py: This file initiates the Dash application.
-layout.py: Defines the layout and design of the dashboard.
-data_utils.py: Contains utility functions to process and manipulate data.
+- app.py: This file initiates the Dash application.
+- layout.py: Defines the layout and design of the dashboard.
+- data_utils.py: Contains utility functions to process and manipulate data.
 
 ## Built With
 
-**Dash** - A productive Python framework for building web applications.
-**Python** - A versatile programming language.
+- **Dash** - A productive Python framework for building web applications.
+- **Python** - A versatile programming language.
 
 ## Contributing
 

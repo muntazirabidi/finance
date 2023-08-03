@@ -55,3 +55,6 @@ This project is open-source and available under the MIT License.
 
 - **Yahoo Finance API**: For providing a wealth of financial data.
 - **Plotly Dash Community**: For continuous support and resources.
+
+![Dashboard Screenshot](./assets/Dashboard.png)
+

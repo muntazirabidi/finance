@@ -1,4 +1,4 @@
-# Dash Financial Dashboard
+# Financial Dashboard
 
 Welcome to the Dash Financial Dashboard, a comprehensive and interactive tool I've developed using Plotly Dash in Python. This dashboard provides a deep dive into financial data, allowing users to visualize and analyze stock prices, index funds, and more, all in real-time.
 

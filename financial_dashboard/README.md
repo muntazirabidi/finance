@@ -29,11 +29,11 @@ https://github.com/muntazirabidi/finance/financial_dashboard.git
 
 
 2. **Install Dependencies**:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 3. **Run the Application**:
-python app.py
+`python app.py`
 
 
 ## 📁 Project Structure

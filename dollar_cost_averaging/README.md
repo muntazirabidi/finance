@@ -13,3 +13,5 @@ This dashboard provides a visual comparison of various dollar-cost averaging (DC
 - **Multiple Investment Frequencies**: Compare lump sum, weekly, biweekly, and monthly investment strategies.
 - **Customizable Initial Amount**: Set a preferred starting investment amount.
 - **Wide Selection of Funds/Stocks**: Choose from a variety of index funds, stocks, and other investment options.
+
+## Installation & Setup

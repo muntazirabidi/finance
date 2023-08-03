@@ -9,7 +9,7 @@ This dashboard provides a visual comparison of various dollar-cost averaging (DC
 
 ## Features
 
-Interactive Visualization: View the portfolio's growth over time based on chosen strategies.
-Multiple Investment Frequencies: Compare lump sum, weekly, biweekly, and monthly investment strategies.
-Customizable Initial Amount: Set a preferred starting investment amount.
-Wide Selection of Funds/Stocks: Choose from a variety of index funds, stocks, and other investment options.
+- **Interactive Visualization**: View the portfolio's growth over time based on chosen strategies.
+- **Multiple Investment Frequencies**: Compare lump sum, weekly, biweekly, and monthly investment strategies.
+- **Customizable Initial Amount**: Set a preferred starting investment amount.
+- **Wide Selection of Funds/Stocks**: Choose from a variety of index funds, stocks, and other investment options.
